@@ -2,13 +2,13 @@ import numpy as np
 import tensorflow as tf
 from tensorflow.keras import backend as K
 from tensorflow.keras.applications import vgg16
-from tensorflow.keras.layers.convolutional import Conv2D
+from tensorflow.keras.layers import Conv2D
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
-from tensorflow.keras.utils.data_utils import GeneratorEnqueuer
+from tensorflow.keras.utils import GeneratorEnqueuer
 from PIL import ImageFile
 ImageFile.LOAD_TRUNCATED_IMAGES = True
 
-data_folder = "path_to_dataset"  # REPLACE with a valid location
+data_folder = "/content/ImagNet/imagenet_images"  # REPLACE with a valid location
 output_filename = "vgg16_norm_weights.h5"
 batch_size = 64  # whatever your system can handle
 img_size = (224, 224)  # best to set it to the size used in training your model
@@ -75,3 +75,4 @@ if __name__ == "__main__":
             prev_conv_layer_means = means
         
     vgg_net.save_weights(output_filename)
+
