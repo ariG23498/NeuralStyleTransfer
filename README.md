@@ -6,7 +6,7 @@ The implementation is supported by Weights and Biases reports. The implementatio
 * [Part 1](https://app.wandb.ai/authors/nerual_style_transfer/reports/Part-1-Deep-representations-a-way-to-conceive-Neural-Style-Transfer--VmlldzoyMjQzNDY) - Deals with the visualisation of deep embeddings and the content representation of a pre-trained deep learning model.
 * [Part 2](https://app.wandb.ai/authors/nerual_style_transfer/reports/Part-2-Deep-representations-a-way-to-conceive-Neural-Style-Transfer--VmlldzoyMjYyNzk) - Deals with the style representation and the Neural Style Transfer algorithm.
 
-![nst.gif](https://github.com/ariG23498/NeuralStyleTransfer/tree/master/Assets/nst.gif)
+![nst.gif](https://raw.githubusercontent.com/ariG23498/NeuralStyleTransfer/tree/master/Assets/nst.gif)
 
 ## Folder Structure:
 
@@ -43,25 +43,25 @@ Special Mention: We have used [ImageNet dataset downloader](https://github.com/m
 
 * **Content Representation**
 
-  ![content.gif](https://github.com/ariG23498/NeuralStyleTransfer/tree/master/Assets/content.gif)
+  ![content.gif](https://raw.githubusercontent.com/ariG23498/NeuralStyleTransfer/tree/master/Assets/content.gif)
 
 * **Amalgamation**
 
-  ![amalgamation.gif](https://github.com/ariG23498/NeuralStyleTransfer/tree/master/Assets/amalgamation.gif)
+  ![amalgamation.gif](https://raw.githubusercontent.com/ariG23498/NeuralStyleTransfer/tree/master/Assets/amalgamation.gif)
 
 * **Style Representation**
 
-  ![style.gif](https://github.com/ariG23498/NeuralStyleTransfer/tree/master/Assets/style.gif)
+  ![style.gif](https://raw.githubusercontent.com/ariG23498/NeuralStyleTransfer/tree/master/Assets/style.gif)
 
 * **Neural Style Transfer**
 
-  ![nst.gif](https://github.com/ariG23498/NeuralStyleTransfer/tree/master/Assets/nst.gif)
+  ![nst.gif](https://raw.githubusercontent.com/ariG23498/NeuralStyleTransfer/tree/master/Assets/nst.gif)
   
 * **Photo-Realistic Images**
 
-  ![images.jpeg](https://github.com/ariG23498/NeuralStyleTransfer/tree/master/Assets/images.jpeg)
+  ![images.jpeg](https://raw.githubusercontent.com/ariG23498/NeuralStyleTransfer/tree/master/Assets/images.jpeg)
 
-  ![style_images.jpeg](https://github.com/ariG23498/NeuralStyleTransfer/tree/master/Assets/style_images.jpeg)
+  ![style_images.jpeg](https://raw.githubusercontent.com/ariG23498/NeuralStyleTransfer/tree/master/Assets/style_images.jpeg)
 
 ## Report Authors
 
